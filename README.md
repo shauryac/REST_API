@@ -6,18 +6,26 @@ APIs:
 
 1. Create a new user profile:
 
-URL: POST/profile
+   URL: POST/profile
 
 2. Get user profile:
 
-URL: GET/profile/{email}
+   URL: GET/profile/{email}
 
 3. Update existing user profile
 
-URL: PUT/profile/{email}
-
+   URL: PUT/profile/{email}
 4. Delete existing user profile
+   
+   URL: DELETE/profile/{email}
+  
 
-URL: DELETE/profile/{email}
+
+
+
+
+
+
+
 
 
